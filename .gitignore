@@ -1,0 +1,40 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled files
+*.exe
+*.obj
+*.o
+*.out
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Any custom CMake build folders
+build*/
+build-*/
+
+# Local editor / Exercism metadata
+.vscode/
+.exercism/
