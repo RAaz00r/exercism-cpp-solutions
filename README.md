@@ -12,33 +12,39 @@ My more substantial algorithm, computer science, and systems programming work li
 
 ### Basics
 
-- `hello-world` — introduction to the C++ track and workflow
-- `lasagna` — variables, functions, arithmetic, and basic C++ syntax
+- `hello-world` â€” introduction to the C++ track and workflow
+- `lasagna` â€” variables, functions, arithmetic, and basic C++ syntax
 
 ### Namespaces
 
-- `last-will` — namespaces, nested namespaces, and scope resolution
+- `last-will` â€” namespaces, nested namespaces, and scope resolution
 
 ### Strings
 
-- `log-levels` — string processing and standard-library operations
+- `log-levels` â€” string processing and standard-library operations
 
 ### Control Flow
 
-- `pacman-rules` — booleans and logical operators
+- `pacman-rules` â€” booleans and logical operators
+- `raindrops` â€” divisibility, conditional logic, and string construction
 
 ## Repository Structure
 
     exercism-cpp-solutions/
     +-- basics/
-    ¦   +-- hello-world/
-    ¦   +-- lasagna/
+    |   +-- hello-world/
+    |   +-- lasagna/
     +-- namespaces/
-    ¦   +-- last-will/
+    |   +-- last-will/
     +-- strings/
-    ¦   +-- log-levels/
+    |   +-- log-levels/
     +-- control-flow/
         +-- pacman-rules/
+        +-- raindrops/
+
+## Learning Resources
+
+- [14 Ways to Solve Raindrops (FizzBuzz, but harder!)](https://www.youtube.com/watch?v=mwe-9RIV39Y&t=2s)
 
 ## Purpose
 
@@ -46,7 +52,8 @@ This repository records my progress while learning modern C++.
 
 It is intentionally separate from my more curated repositories:
 
-- `algorithms-and-cs` — algorithms, data structures, and CS fundamentals
-- `cpp-systems-lab` — C++ systems programming experiments
+- `algorithms-and-cs` â€” algorithms, data structures, and CS fundamentals
+- `cpp-systems-lab` â€” C++ systems programming experiments
 
 Generated build files and binaries are not committed.
+
