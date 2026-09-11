@@ -19,6 +19,10 @@ My more substantial algorithm, computer science, and systems programming work li
 
 - `last-will` — namespaces, nested namespaces, and scope resolution
 
+### Numbers
+
+- `freelancer-rates` — floating-point arithmetic, percentages, type conversion, and rounding
+
 ### Strings
 
 - `log-levels` — string processing and standard-library operations
@@ -36,6 +40,8 @@ My more substantial algorithm, computer science, and systems programming work li
     |   +-- lasagna/
     +-- namespaces/
     |   +-- last-will/
+    +-- numbers/
+    |   +-- freelancer-rates/
     +-- strings/
     |   +-- log-levels/
     +-- control-flow/
