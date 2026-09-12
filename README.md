@@ -50,7 +50,7 @@ My more substantial algorithm, computer science, and systems programming work li
 
 ## Learning Resources
 
-- [14 Ways to Solve Raindrops (FizzBuzz, but harder!)](https://www.youtube.com/watch?v=mwe-9RIV39Y&t=2s)
+- [14 Ways to Solve Raindrops (FizzBuzz, but harder!)](https://www.youtube.com/watch?v=mwe-9RIV39Y&t=2s).
 
 ## Purpose
 
